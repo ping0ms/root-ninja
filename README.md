@@ -1,3 +1,6 @@
+
+
+<img src="https://user-images.githubusercontent.com/113375039/216830920-fb768135-eb4b-4b81-8532-2237c0293653.png" height="300" width="1080">
 <h1 align="center"> <a href="https://ping0ms.github.io/root-ninja/">root-ninja </h1></a> </h1>
 
 <p align="center">Root Ninja for Game Jam 2023, inspired by the famous OSU! Catch</p>
