@@ -1,13 +1,15 @@
 # root-ninja
 
-Root Ninja for Game Jam 2023, inspired by the famous Fruit Ninja
+Root Ninja for Game Jam 2023, inspired by the famous OSU! Catch
 
 
 ## Character History
 
-An elder narrates a ancient legend to an intimidated boy who fears about the brutality of enemies of the ninja clan
+An elder narrates a ancient legend to an intimidated boy who fears about the brutality of enemies of the ninja clan.
 
-In the mystic tale of an ancient legend of a ninja known as Yasuke who lived long long ago in the village of Angbotain who was from Shinobi of the nature clan. Yasuke was an African ninja whose achievements went unrecognized because of his race. His sensei Shimura sensed his talent and honesty when he found him in an orphanage. Young Yasuke was then adopted and trained into a ninja. Months passed and a deadly illness prevailed where chaos and fear rose in the village. After long search of medicines by a famous physician Shigeaki Hinohara a friend of sensei shimura told that the deadly disease can only be cured by the roots of Licorice a medicinal plant only in the depths of Koran valley where roots of Licorice fall off from the heavy winds at the time. The valley was impossible to climb due severe winds. He warned the roots of water hemlocks were also prone to fall making it a menacing task. Yasuke accepts this task and keeps his life on the line for the lives of the village. His sensei lends his basket where he used to bring medicinal herbs for Yasuke when he was ill during his younger years. They have an emotional conversation after which Yasuke sets off to embark of journey of honor and exigent into the depths of the valley Koran.
+In the mystic tale of an ancient legend of a ninja known as Yasuke who lived long long ago in the village of Angbotain who was from Shinobi of the nature clan. Yasuke was an African ninja whose achievements went unrecognized because of his race. His sensei Shimura sensed his talent and honesty when he found him in an orphanage. Young Yasuke was then adopted and trained into a ninja. </br>
+Months passed and a deadly illness prevailed where chaos and fear rose in the village. After long search of medicines by a famous physician Shigeaki Hinohara a friend of sensei shimura told that the deadly disease can only be cured by the roots of Licorice, a medicinal plant only in the depths of Koran valley where roots of Licorice fall off from the heavy winds at the time. The valley was impossible to climb due severe winds. He warned the roots of water hemlocks were also prone to fall making it a menacing task. </br>
+Yasuke accepts this task and keeps his life on the line for the lives of the village. His sensei lends his basket where he used to bring medicinal herbs for Yasuke when he was ill during his younger years. They have an emotional conversation after which Yasuke sets off to embark of journey of honor and exigent into the depths of the valley Koran.
 
 ## Background story
 
@@ -39,9 +41,9 @@ You need to use the arrow keys to change the position of the ninja. Catch medici
 ## Sponsors
 
 Thanks to the even sponsors at the IIIT SriCity Jam Site.
-
+![imageedit_6_6352355821](https://user-images.githubusercontent.com/113375039/216823005-2ffddcc0-5301-4b04-929c-73c2bd4a4d22.png)
 
 ## Organizers
 
-- IIIT SriCity Projects Club IOTA
+- [IIIT SriCity Projects Club IOTA](https://www.linkedin.com/company/iota-iiits/)
 
