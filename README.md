@@ -5,15 +5,12 @@
 
 <p align="center">Root Ninja for Game Jam 2023, inspired by the famous OSU! Catch</p>
 
-## Character History
 
-An elder narrates a ancient legend to an intimidated boy who fears about the brutality of enemies of the ninja clan.
 
-In the mystic tale of an ancient legend of a ninja known as Yasuke who lived long long ago in the village of Angbotain who was from Shinobi of the nature clan. Yasuke was an African ninja whose achievements went unrecognized because of his race. His sensei Shimura sensed his talent and honesty when he found him in an orphanage. Young Yasuke was then adopted and trained into a ninja. </br>
-Months passed and a deadly illness prevailed where chaos and fear rose in the village. After long search of medicines by a famous physician Shigeaki Hinohara a friend of sensei shimura told that the deadly disease can only be cured by the roots of Licorice, a medicinal plant only in the depths of Koran valley where roots of Licorice fall off from the heavy winds at the time. The valley was impossible to climb due severe winds. He warned the roots of water hemlocks were also prone to fall making it a menacing task. </br>
-Yasuke accepts this task and keeps his life on the line for the lives of the village. His sensei lends his basket where he used to bring medicinal herbs for Yasuke when he was ill during his younger years. They have an emotional conversation after which Yasuke sets off to embark of journey of honor and exigent into the depths of the valley Koran.
 
-## Background story
+
+
+## Background
 
 Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease. This disease can only be cured using a medicinal root found in the depths of the Ōbami hills near the Hannoki waterfall.
 
@@ -21,6 +18,21 @@ Now it's upto you, the lone unaffected survivor of the epidemic, to collect enou
 
 But BE AWARE!!! There are also poisonous roots which worsen the condition of the villagers, and can lead to the village being completely wiped. All the best in your journey to save your village brave hero!
 
+<details>
+  <summary>TL;DR</summary>
+  <br>
+  An elder narrates a ancient legend to an intimidated boy who fears about the brutality of enemies of the ninja clan.
+
+In the mystic tale of an ancient legend of a ninja known as Yasuke who lived long long ago in the village of Angbotain who was from Shinobi of the nature clan. Yasuke was an African ninja whose achievements went unrecognized because of his race. His sensei Shimura sensed his talent and honesty when he found him in an orphanage. Young Yasuke was then adopted and trained into a ninja.
+
+
+Months passed and a deadly illness prevailed where chaos and fear rose in the village. After long search of medicines by a famous physician Shigeaki Hinohara a friend of sensei shimura told that the deadly disease can only be cured by the roots of Licorice, a medicinal plant only in the depths of Koran valley where roots of Licorice fall off from the heavy winds at the time. The valley was impossible to climb due severe winds. He warned the roots of water hemlocks were also prone to fall making it a menacing task. 
+
+
+Yasuke accepts this task and keeps his life on the line for the lives of the village. His sensei lends his basket where he used to bring medicinal herbs for Yasuke when he was ill during his younger years. They have an emotional conversation after which Yasuke sets off to embark of journey of honor and exigent into the depths of the valley Koran.
+ 
+ </details>
+ 
 ## Play Now
 
 [Direct Link](https://ping0ms.github.io/root-ninja/play.html) to Play the game online.
