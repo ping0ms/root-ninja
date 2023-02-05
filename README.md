@@ -1,7 +1,6 @@
-# root-ninja
+<h1 align="center"> <a href="https://ping0ms.github.io/root-ninja/">root-ninja </h1></a> </h1>
 
-Root Ninja for Game Jam 2023, inspired by the famous OSU! Catch
-
+<p align="center">Root Ninja for Game Jam 2023, inspired by the famous OSU! Catch</p>
 
 ## Character History
 
