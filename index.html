@@ -8,6 +8,82 @@
     <link rel="icon" type="image/x-icon" href="ninjaFace.png" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="tailwind.config.js"></script>
+    <style>
+      nav {
+        position: fixed;
+        width: 100vw;
+      }
+
+      #vcontainer_txt {
+        height: 140vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+      }
+
+      #vcontainer video {
+        position: fixed;
+      }
+
+      #default-carousel {
+        border-radius: 10px;
+      }
+
+      @media (max-width: 930px) {
+        #vcontainer_txt {
+          height: 150vh;
+        }
+
+        #default-carousel {
+          width: 97vw;
+          margin: auto;
+          margin-top: 20px;
+          margin-bottom: 20px;
+        }
+
+        #vcontainer {
+          box-sizing: border-box;
+        }
+
+        #vcontainer video {
+          height: 100%;
+          transform: scaleY(1.2);
+          overflow: hidden;
+        }
+      }
+
+      @media (max-width: 720px) {
+        #vcontainer video {
+          transform: scaleY(1.5);
+        }
+      }
+
+      @media (max-width: 600px) {
+        #vcontainer_txt {
+          height: 170vh;
+        }
+        #vcontainer video {
+          transform: scaleY(2);
+        }
+      }
+      @media (max-width: 460px) {
+        #vcontainer_txt {
+          height: 190vh;
+        }
+        #vcontainer video {
+          transform: scaleY(3) translateY(1.9rem);
+        }
+        @media (max-width: 340px) {
+          #vcontainer_txt {
+            height: 200vh;
+          }
+          #vcontainer video {
+            transform: scaleY(3) translateY(1rem);
+          }
+        }
+      }
+    </style>
 
     <link
       href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css"
@@ -18,6 +94,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
+
   <body>
     <!-- navbar -->
     <nav
@@ -98,18 +175,22 @@
     </nav>
 
     <!-- hero, cta -->
-    <section class="bg-transparent dark:bg-transparent-900">
-      <video
-        src="ggjtheme.webm"
-        autoplay
-        loop
-        muted
-        title="YouTube video player"
-        class="absolute w-full opacity-30"
-        style="z-index: -1; aspect-ratio: calc(16 / 9)"
-      ></video>
+    <section class="bg-transparent dark:bg-transparent-900" id="vcontainer">
+      <div id="video">
+        <video
+          src="ggjtheme.webm"
+          autoplay
+          loop
+          muted
+          title="YouTube video player"
+          class="absolute w-full opacity-30"
+          id="video_1"
+          style="z-index: -1"
+        ></video>
+      </div>
       <div
         class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12 z-10 position-relative"
+        id="vcontainer_txt"
       >
         <a
           href="#"
@@ -403,7 +484,7 @@
     </div>
 
     <!-- accordion -->
-    <div id="accordion-collapse" class="mr-20 ml-20" data-accordion="collapse">
+    <div id="accordion-collapse" class="mr-5 ml-5" data-accordion="collapse">
       <h2 id="accordion-collapse-heading-1">
         <button
           type="button"
