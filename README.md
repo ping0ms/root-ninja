@@ -39,8 +39,12 @@ You need to use the arrow keys to change the position of the ninja. Catch medici
 
 ## Sponsors
 
-Thanks to the even sponsors at the IIIT SriCity Jam Site.
-![imageedit_6_6352355821](https://user-images.githubusercontent.com/113375039/216823005-2ffddcc0-5301-4b04-929c-73c2bd4a4d22.png)
+Thanks to the even sponsors at the IIIT SriCity Jam Site. </br>
+<div align="center">
+<a href="https://www.lavazza.in/en.html"><img src="https://user-images.githubusercontent.com/113375039/216828014-d8b2c8f3-1f25-4af5-89e2-e31afa10ff8d.png"></a>
+<a href="https://www.tataconsumer.com/brands/foods/tata-sampann-yumside"><img src="https://user-images.githubusercontent.com/113375039/216828016-6f3cee46-60d8-4694-bf73-3a47c24757de.png"></a>
+<a href="https://www.pepsi.com/"><img src="https://user-images.githubusercontent.com/113375039/216828018-9d0d359c-cbd6-403b-bbff-dd5690ae2d6e.png"></a>
+</div>
 
 ## Organizers
 
