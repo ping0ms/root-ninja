@@ -23,9 +23,11 @@ But BE AWARE!!! There are also poisonous roots which worsen the condition of the
 
 ## Play Now
 
-Direct Link to Play the game: https://ping0ms.github.io/root-ninja/play.html
+[Direct Link](https://ping0ms.github.io/root-ninja/play.html) to Play the game online.
 
 You need to use the arrow keys to change the position of the ninja. Catch medicinal roots to earn points. You loose points when you take poisonous roots.
+
+Play around with the [scratch code here](https://scratch.mit.edu/projects/798920733). 
 
 ## Jam Members
 
