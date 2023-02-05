@@ -5,11 +5,6 @@
 
 <p align="center">Root Ninja for Game Jam 2023, inspired by the famous OSU! Catch</p>
 
-
-
-
-
-
 ## Background
 
 Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease. This disease can only be cured using a medicinal root found in the depths of the Ōbami hills near the Hannoki waterfall.
@@ -41,9 +36,9 @@ You need to use the arrow keys to change the position of the ninja. Catch medici
 
 Play around with the [scratch code here](https://scratch.mit.edu/projects/798920733). 
 
-
-https://user-images.githubusercontent.com/113375039/216833555-76c31fa2-2c71-4219-8b87-271657643e53.mp4
-
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/113375039/216833555-76c31fa2-2c71-4219-8b87-271657643e53.mp4" width=400/> </video>
+</div>
 
 ## Jam Members
 
