@@ -14,6 +14,9 @@
         width: 100vw;
       }
 
+      #vcontainer_txt p {
+        text-shadow: 1px 1px 2px white;
+      }
       #vcontainer_txt {
         height: 140vh;
         display: flex;
@@ -71,16 +74,17 @@
         #vcontainer_txt {
           height: 190vh;
         }
-        #vcontainer video {
-          transform: scaleY(3) translateY(1.9rem);
-        }
+        /* #vcontainer video{
+        transform: scaleY(3) ;
+      } */
         @media (max-width: 340px) {
           #vcontainer_txt {
             height: 200vh;
           }
-          #vcontainer video {
-            transform: scaleY(3) translateY(1rem);
-          }
+
+          /* #vcontainer video{
+        transform: scaleY(3);
+      } */
         }
       }
     </style>
@@ -99,6 +103,7 @@
     <!-- navbar -->
     <nav
       class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900"
+      id="nav"
     >
       <div
         class="container flex flex-wrap items-center justify-between mx-auto"
@@ -515,7 +520,7 @@
         aria-labelledby="accordion-collapse-heading-1"
       >
         <div
-          class="p-5 font-light border border-b-0 border-gray-200 dark:border-gray-700 dark:bg-gray-900"
+          class="p-5 font-light border border-b-0 border-gray-200 dark:border-gray-700 dark:bg-gray-900 bg-white"
         >
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             Its a game created in Global Game Jam 2023, its just like fruit
@@ -563,7 +568,7 @@
         aria-labelledby="accordion-collapse-heading-2"
       >
         <div
-          class="p-5 font-light border border-b-0 border-gray-200 dark:border-gray-700"
+          class="p-5 font-light border border-b-0 border-gray-200 dark:border-gray-700 bg-white"
         >
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             Flowbite is first conceptualized and designed using the Figma
@@ -614,7 +619,7 @@
         aria-labelledby="accordion-collapse-heading-3"
       >
         <div
-          class="p-5 font-light border border-t-0 border-gray-200 dark:border-gray-700"
+          class="p-5 font-light border border-t-0 border-gray-200 dark:border-gray-700 bg-white"
         >
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             The main difference is that the core components from Flowbite are
@@ -839,6 +844,45 @@
           </div>
         </div>
       </div>
+
+      <div
+        class="w-full max-w-sm bg-white w-80 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mr-2 ml-2 mt-2 mb-3"
+      >
+        <br />
+        <div class="flex flex-col items-center pb-10">
+          <img
+            class="w-24 h-24 mb-3 rounded-full shadow-lg"
+            src="https://avatars.githubusercontent.com/u/116871732?v=4"
+            alt="mithun-avatar"
+          />
+          <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">
+            Mithun U
+          </h5>
+          <span class="text-sm text-gray-500 dark:text-gray-400"
+            >Web Developer</span
+          >
+          <div class="flex mt-4 space-x-0.5 md:mt-4">
+            <a
+              href="https://github.com/Kratos-750"
+              class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-gray-700"
+              ><img
+                src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+                height="30"
+                width="30"
+                alt="GitHub Logo"
+            /></a>
+            <a
+              href="#"
+              class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-gray-900 bg-white rounded-lg hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-700 dark:focus:ring-gray-700"
+              ><img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
+                height="30"
+                width="30"
+                alt="Linkedin Logo"
+            /></a>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- footer -->
@@ -870,5 +914,17 @@
     </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+    <script>
+      let nav_width = document.getElementById(`nav`);
+      let vid = document.getElementById(`video_1`);
+      const displayWidth = window.innerWidth;
+      if (displayWidth < 460) {
+        // console.log(displayWidth)
+        vid.style.transform += `scaleY(3)`;
+        vid.style.transform += `translateY(${nav_width.style.height + 10}px)`;
+      } else {
+        vid.style.transform = `translateY(${nav_width.style.height}px)`;
+      }
+    </script>
   </body>
 </html>
