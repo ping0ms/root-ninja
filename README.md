@@ -41,6 +41,10 @@ You need to use the arrow keys to change the position of the ninja. Catch medici
 
 Play around with the [scratch code here](https://scratch.mit.edu/projects/798920733). 
 
+
+https://user-images.githubusercontent.com/113375039/216833555-76c31fa2-2c71-4219-8b87-271657643e53.mp4
+
+
 ## Jam Members
 
 - [Suvan Sarkar](https://www.linkedin.com/in/suvan-sarkar-b1438017a/)
