@@ -25,16 +25,16 @@ You need to use the arrow keys to change the position of the ninja. Catch medici
 
 ## Jam Members
 
-- Suvan Sarkar
-- Varun Mantri
-- Bishwajeet Sahoo
-- Aahnik Daw
-- Srinath Krishnakumar
+- [Suvan Sarkar](https://www.linkedin.com/in/suvan-sarkar-b1438017a/)
+- [Varun Mantri](https://www.linkedin.com/in/varun-mantri-52256b239/)
+- [Bishwajeet Sahoo](https://www.linkedin.com/in/bishwajeet-sahoo/)
+- [Aahnik Daw](https://www.linkedin.com/in/aahnik/)
+- [Srinath Krishnakumar](https://www.linkedin.com/in/srinath-krishnakumar-677533262/)
 
 ## Special Thanks
 
-- Mithun U
-- Shardul Kurdukar
+- [Mithun U](https://github.com/kratos-750)
+- [Shardul Kurdukar](https://github.com/fresauce)
 
 ## Sponsors
 
